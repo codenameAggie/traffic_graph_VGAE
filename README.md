@@ -2,6 +2,7 @@
 
 # Getting started:
 ## For further information, please contact Arash Abdollahzadeh at aa75442@gmail.com or find me on LinkedIn!
+https://www.linkedin.com/in/arash-abdollahzadeh/
 
 ## Get the data!
 To get the raw files, refer to "https://data.stadt-zuerich.ch/dataset?q=vbz".
@@ -14,22 +15,22 @@ There's a data dictionary located on the website referred above.
 
 ## Dependencies
 
-Uncomment and run the following cell to install the dependencies or install the youself via pip or conda.
+Run the following lines to install the dependencies or install them via pip or conda.
 
-# ! pip install matplotlib
-# ! pip install numpy
-# ! pip install pandas
-# ! pip install seaborn
-# ! pip install scikit-learn
-# ! pip install scipy
-# ! pip install geopy
-# ! pip install folium
-# ! pip install networkx
-# ! pip install cartopy
+! pip install matplotlib
+! pip install numpy
+! pip install pandas
+! pip install seaborn
+! pip install scikit-learn
+! pip install scipy
+! pip install geopy
+! pip install folium
+! pip install networkx
+! pip install cartopy
 
 ## The notebooks:
 
-### The notebooks are desgined for a granular technical deep-dive into the EDA and signal/graph modeling. For generating a new graph, use the # 
+### The notebooks are desgined for a granular technical deep-dive into the EDA and signal/graph modeling. For generating a new graph, use notebook #6.
 
 The notebooks are designed to be explored sequentially. Notebooks 1 - 5 were the result of exploratory data analysis done by Arash Abdollahzadeh, oversaw by Dr. Nick Duffield; it was an effort to define a graph, representing the network of the public transportation of city of Zurich, and define signals on that graph as time-series indices of traffic (modeled via normalizing the difference between the actual travel times of vehicles from expected travel times by the expected travel times).
 
