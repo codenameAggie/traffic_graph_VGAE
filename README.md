@@ -19,14 +19,14 @@ Run the following lines to install the dependencies or install them via pip or c
 
 ! pip install matplotlib\
 ! pip install numpy\
-! pip install pandas
-! pip install seaborn
-! pip install scikit-learn
-! pip install scipy
-! pip install geopy
-! pip install folium
-! pip install networkx
-! pip install cartopy
+! pip install pandas\
+! pip install seaborn\
+! pip install scikit-learn\
+! pip install scipy\
+! pip install geopy\
+! pip install folium\
+! pip install networkx\
+! pip install cartopy\
 
 ## The notebooks:
 
