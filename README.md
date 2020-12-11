@@ -3,7 +3,7 @@
 ---
 
 # Getting started:
-## For further information, please contact Arash Abdollahzadeh at aa75442@gmail.com or find me on LinkedIn!
+## For further information, please contact Arash Abdollahzadeh at aa75442@tamu.edu or find me on LinkedIn!
 https://www.linkedin.com/in/arash-abdollahzadeh/
 <img src="./images/fig1.JPG"  width="700" height="500">
 
