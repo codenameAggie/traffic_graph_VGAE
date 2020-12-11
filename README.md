@@ -26,7 +26,7 @@ Run the following lines to install the dependencies or install them via pip or c
 ! pip install geopy\
 ! pip install folium\
 ! pip install networkx\
-! pip install cartopy\
+! pip install cartopy
 
 ## The notebooks:
 
