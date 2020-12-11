@@ -17,8 +17,8 @@ There's a data dictionary located on the website referred above.
 
 Run the following lines to install the dependencies or install them via pip or conda.
 
-! pip install matplotlib \n
-! pip install numpy \n
+! pip install matplotlib\
+! pip install numpy\
 ! pip install pandas
 ! pip install seaborn
 ! pip install scikit-learn
