@@ -1,11 +1,12 @@
 # Variational Graph Representation Learning and Graph Signal Processing
 ## You may download the full report [here](https://github.com/codenameAggie/traffic_graph_VGAE/blob/master/Arash_Abdollahzadeh_Final_Report.pdf).
 ---
-<img src="./images/fig1.JPG"  width="500" height="400">
 
 # Getting started:
 ## For further information, please contact Arash Abdollahzadeh at aa75442@gmail.com or find me on LinkedIn!
 https://www.linkedin.com/in/arash-abdollahzadeh/
+<img src="./images/fig1.JPG"  width="700" height="500">
+
 
 ## Get the data:
 To get the raw files, refer to "https://data.stadt-zuerich.ch/dataset?q=vbz".
