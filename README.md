@@ -1,7 +1,6 @@
 # Variational Graph Representation Learning and Graph Signal Processing
 ## You may download the full report [here](https://github.com/codenameAggie/traffic_graph_VGAE/blob/master/Arash_Abdollahzadeh_Final_Report.pdf).
 ---
-
 # Getting started:
 ## For further information, please contact Arash Abdollahzadeh at aa75442@tamu.edu or find me on LinkedIn!
 https://www.linkedin.com/in/arash-abdollahzadeh/
