@@ -1,5 +1,5 @@
 # Variational Graph Representation Learning and Graph Signal Processing
-## The full report may be found [here](https://github.com/codenameAggie/traffic_graph_VGAE/blob/master/Arash_Abdollahzadeh_Final_Report.pdf).
+## You may download the full report [here](https://github.com/codenameAggie/traffic_graph_VGAE/blob/master/Arash_Abdollahzadeh_Final_Report.pdf).
 ---
 <img src="./images/fig1.JPG"  width="500" height="400">
 
