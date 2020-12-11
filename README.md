@@ -1,5 +1,5 @@
 # Variational Graph Representation Learning and Graph Signal Processing
-![](./images/fig1.JPG =500x500)
+<img src="./images/fig1.JPG"  width="120" height="120">
 
 # Getting started:
 ## For further information, please contact Arash Abdollahzadeh at aa75442@gmail.com or find me on LinkedIn!
