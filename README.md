@@ -51,3 +51,4 @@ Signals were modeled by finding the difference between the actual travel time an
 Notebook 6 is where the graph is created, and it contains scripts for the graph construction, signal creation, and some visualization.
 
 Notebook 7 creates a time-evolving map based on the signals and the gps data extracted from the previous notebooks. Be sure to check the notebook closely as there are some caveats with the package that generates those visualizations.
+![](images/fig2.JPG)
