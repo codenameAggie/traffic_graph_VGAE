@@ -4,7 +4,7 @@
 ## For further information, please contact Arash Abdollahzadeh at aa75442@gmail.com or find me on LinkedIn!
 https://www.linkedin.com/in/arash-abdollahzadeh/
 
-## Get the data!
+## Get the data:
 To get the raw files, refer to "https://data.stadt-zuerich.ch/dataset?q=vbz".
 
 Years 2015 to 2020 may be found there; however, the notebooks expect first two weeks of 2016's data, so you may download 2016's data here: "https://data.stadt-zuerich.ch/dataset/vbz_fahrzeiten_ogd_2016".
@@ -13,7 +13,7 @@ In addition to the weekly data, be sure to download Haltestelle.csv (stops) and 
 
 There's a data dictionary located on the website referred above.
 
-## Dependencies
+## Dependencies:
 
 Run the following lines to install the dependencies or install them via pip or conda.
 
